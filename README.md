@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Mitz, a Prinicpal Technical Talent Partner at Unity Technologies.
+- 👋 Hi, I’m Mitz from Toronto and I am a Prinicpal Technical Talent Partner at Unity Technologies
+- ✨ Unity is the world’s leading platform for creating and operating real-time 3D (RT3D) content. Creators, ranging from game developers to artists, architects, automotive designers, filmmakers, and others, use Unity to make their imaginations come to life. Our 2000+ person R&D team keeps Unity at the forefront of development by working alongside partners to ensure optimized support for the latest releases and platforms.
+- 😍 In voices off our employees, find out why they love working at Unity - https://youtu.be/1tFUXUiDLvg
+- 👦 Here's my LinkedIn profile - https://www.linkedin.com/in/mittal0801/
 - 👀 I’m interested in connecting with great technical talent and learning more about their motivations.
 - 🌱 I’m a Computer Science graduate who pivoted his career in technincal  recruitment
 - 📫 You can reach me at +1 647 710 0141 or mital.patel@unity3d.com
