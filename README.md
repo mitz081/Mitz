@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mitz, a Prinicpal Tech Talent Partner at Unity Technologies.
+- 👀 I’m interested in connecting with great technical talent and learning more about their motivations.
+- 🌱 I’m a Computer Science graduate who pivoted his career in technincal  recruitment
+- 📫 You can reach me at +1 647 710 0141 or mital.patel@unity3d.com
